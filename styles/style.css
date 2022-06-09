@@ -1,0 +1,38 @@
+*{margin:0;
+padding:0;
+box-sizing: border-box;
+list-style: none;
+}
+
+body{
+    background-color: rgb(133, 84, 165);
+    font-family: 'Delius Unicase', cursive;
+}
+
+h1{
+    padding:10px;
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+h2{
+    text-align: center;
+}
+
+.image1{
+    width: 15%;
+    margin-left: 600px;
+}
+
+.image2{
+    margin-left: 600px;
+    width: 15%;
+}
+
+#box{
+    padding: 20px;
+    margin:10px;
+    font-weight: 700;
+    color:white;
+}
